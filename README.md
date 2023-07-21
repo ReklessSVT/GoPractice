@@ -1,0 +1,2 @@
+# GoPractice
+For practicing GO
